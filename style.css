@@ -1,0 +1,29 @@
+#section1{
+    background-color:rgb(255, 247, 238);
+    margin: 15px;
+    padding: 10px;
+    }
+body{
+    text-align: center;
+    background-color: rgb(250, 234, 214);
+    font-family: 'IBM Plex Mono', monospace;
+
+}
+.menu{
+    position: fixed;
+    list-style: none;
+    cursor: pointer;
+    background-attachment: fixed;
+    background-color: antiquewhite;
+    width: 100%;
+    margin-top: 0px;
+    
+}
+.itens{
+    padding: 12px;
+    float: left;
+
+}
+#section0{
+    display: inline;
+}
